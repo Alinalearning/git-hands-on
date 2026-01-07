@@ -6,3 +6,9 @@ login Test Case
 4.Click login
 5.verify dashboard
 
+1.Open application
+2.Enter username
+3.Enter password
+4.Click login
+5.verify dashboard
+
